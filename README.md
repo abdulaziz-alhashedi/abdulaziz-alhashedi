@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-
+<!--
 <h2 align="left">Hi 👋! My name is abdulaziz and I'm a Full stack web developer </h2>
-
+-->
 ###
 
 <div align="center">
