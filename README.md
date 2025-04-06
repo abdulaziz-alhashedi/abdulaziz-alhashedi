@@ -59,42 +59,5 @@
 * **Version Control with Git:** Proficient in using Git and GitHub for collaboration and code management.
 * **Problem-Solving & Analytical Skills:** A strong ability to analyze problems and develop effective solutions.
 
-### 🚀 Featured Projects:
-
-#### [E-commerce App (Next.js & Sanity)](https://github.com/abdulaziz-alhashedi/e-commerce-app-nextjs-sanity)
-
-A fully functional e-commerce application built with Next.js on the front-end and Sanity CMS for content management. This project demonstrates my ability to create dynamic product listings, manage content effectively, and implement user interactions.
-
-**Key Technologies:** Next.js, React, Sanity CMS, Tailwind CSS
-
-#### [MERN E-commerce](https://github.com/abdulaziz-alhashedi/mern-e-commerce)
-
-A comprehensive e-commerce platform developed using the MERN stack (MongoDB, Express.js, React, Node.js). This project showcases my full-stack capabilities in building user authentication, product management, and order processing systems.
-
-**Key Technologies:** MongoDB, Express.js, React, Node.js, Redux
-
-#### [React TailwindCSS Portfolio](https://github.com/abdulaziz-alhashedi/react-tailwindcss-portfolio)
-
-A personal portfolio website built with React and styled with Tailwind CSS. This project highlights my front-end development skills, responsive design capabilities, and ability to present information effectively.
-
-**Key Technologies:** React, Tailwind CSS, HTML, CSS
-
-**(Optional: If you have a significant Laravel/PHP project on your GitHub, consider featuring it here as well, following the same format as the other projects.)**
-
-### 🌱 Currently Learning & Exploring:
-
-* Deepening my understanding of advanced React patterns and state management.
-* Exploring serverless functions and their applications.
-* Investigating more about CI/CD pipelines for automated deployments.
-
-### 📫 Let's Connect!
-
-* **LinkedIn:** [Your LinkedIn Profile URL (Please add this if you have one)]
-* **Email:** [Your Email Address (Please add this)]
-* **[Other Social Media/Portfolio Link (Optional)]**
-
-Feel free to reach out for collaborations or opportunities!
-
----
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
