@@ -47,12 +47,13 @@
 
 ### 💼 My Experience & Skills:
 
-* **Full Stack Development:** Proficient in building complete web applications, from front-end user interfaces to back-end APIs and databases.
+* **Full Stack Development:** Proficient in building complete web applications across various technology stacks.
 * **Modern Front-End Development:** Expertise in React and Next.js, creating responsive, interactive, and performant user experiences.
-* **Robust Back-End Development:** Skilled in Node.js with Express.js and Python with Django for building scalable and secure server-side applications.
+* **Robust Back-End Development:** Skilled in Node.js with Express.js, Python with Django, **and PHP with the Laravel framework**, for building scalable and secure server-side applications.
+* **PHP & Laravel Expertise:** Experienced in developing web applications using the PHP language and the elegant Laravel framework, leveraging its features for rapid development and maintainable code.
 * **E-commerce Solutions:** Experience in developing e-commerce platforms using technologies like Next.js and potentially MERN stack.
 * **Content Management Systems (CMS):** Familiar with integrating and utilizing CMS platforms like Sanity.
-* **Database Knowledge:** (Mention specific databases you have worked with, e.g., MongoDB, PostgreSQL, MySQL).
+* **Database Knowledge:** (Mention specific databases you have worked with, e.g., MySQL, PostgreSQL, MongoDB).
 * **Cloud Deployment:** Experience with deploying applications on platforms like Firebase (and others if applicable).
 * **Containerization with Docker:** Capable of containerizing applications for consistent deployment across different environments.
 * **Version Control with Git:** Proficient in using Git and GitHub for collaboration and code management.
@@ -65,21 +66,20 @@
 A fully functional e-commerce application built with Next.js on the front-end and Sanity CMS for content management. This project demonstrates my ability to create dynamic product listings, manage content effectively, and implement user interactions.
 
 **Key Technologies:** Next.js, React, Sanity CMS, Tailwind CSS
-**Key Features:** Product catalog, dynamic content updates, responsive design.
 
 #### [MERN E-commerce](https://github.com/abdulaziz-alhashedi/mern-e-commerce)
 
 A comprehensive e-commerce platform developed using the MERN stack (MongoDB, Express.js, React, Node.js). This project showcases my full-stack capabilities in building user authentication, product management, and order processing systems.
 
 **Key Technologies:** MongoDB, Express.js, React, Node.js, Redux
-**Key Features:** User authentication, product listing and management, shopping cart functionality.
 
 #### [React TailwindCSS Portfolio](https://github.com/abdulaziz-alhashedi/react-tailwindcss-portfolio)
 
 A personal portfolio website built with React and styled with Tailwind CSS. This project highlights my front-end development skills, responsive design capabilities, and ability to present information effectively.
 
 **Key Technologies:** React, Tailwind CSS, HTML, CSS
-**Key Features:** Responsive layout, project showcase, contact information.
+
+**(Optional: If you have a significant Laravel/PHP project on your GitHub, consider featuring it here as well, following the same format as the other projects.)**
 
 ### 🌱 Currently Learning & Exploring:
 
