@@ -1,6 +1,3 @@
-## 👋 Hi there!
-
-### I'm Abdulaziz, a passionate Full Stack Web Developer dedicated to building innovative and user-friendly web applications.
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=abdulaziz-alhashedi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Abdulaziz's GitHub Stats" />
