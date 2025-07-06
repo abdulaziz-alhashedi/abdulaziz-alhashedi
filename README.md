@@ -1,3 +1,4 @@
+<!--
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=abdulaziz-alhashedi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Abdulaziz's GitHub Stats" />
@@ -5,7 +6,6 @@
 </div>
 
 ### 🛠️ Technologies I Work With:
-<!--
 <div align="left" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
     <img width="12" />
