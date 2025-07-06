@@ -42,6 +42,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="Composer" />
 </div>
 
---->
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+--->
