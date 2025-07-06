@@ -5,8 +5,8 @@
 </div>
 
 ### 🛠️ Technologies I Work With:
-
-<div align="left">
+<!--
+<div align="left" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express.js" />
@@ -42,6 +42,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="Composer" />
 </div>
 
-
+--->
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
